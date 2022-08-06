@@ -1,0 +1,14 @@
+{
+  "name": "credit-card-2lvl",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Ostrovidova Anna",
+  "dependencies": {
+    "redom": "^3.29.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
