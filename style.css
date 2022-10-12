@@ -346,3 +346,18 @@ input {
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
 }
+
+.send {
+    height: 50px;
+    text-transform: uppercase;
+    color: #707070;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 1px solid #dcdcdc;
+    cursor: pointer;
+}
+
+.send-message {
+    font-size: 12px;
+    text-align: center;
+}

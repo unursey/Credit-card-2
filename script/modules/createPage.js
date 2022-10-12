@@ -1,5 +1,5 @@
 import {el, setChildren, svg} from 'redom';
-import { foo } from './control.js';
+import { foo, message } from './control.js';
 import {
     codeCard,
     nameCard,
@@ -155,9 +155,17 @@ export const createPage = () => {
     },
     }),
     ),
+
+    el('button', {
+    className: 'send',
+    type: 'submit',
+    name: 'submit',
+  }, 'SEND'),
+  el('h2', {className: "send-message"})
   );
   
     setChildren(document.body, [divTitle, divContainer, divFormContainer]);
+    message();
   
     foo(document.getElementById('svgname'), document.getElementById('name'));
     foo(document.getElementById('svgnumber'), document.getElementById('cardnumber'));
