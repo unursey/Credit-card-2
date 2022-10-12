@@ -1,4 +1,4 @@
-16924
+16920
 61C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@mischnic133076730185173164 1
 95C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\types\lib\validators\validate.js.map133099892440130230 0
 71C:\Users\anna\Desktop\credit-card-2lvl\node_modules\lodash\isWeakSet.js133100103901409651 0
@@ -85,7 +85,7 @@
 100C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\types\internal\scheduler\asap.d.ts.map133100103902789588 0
 99C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133042179543118437 0
 99C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\core\lib\tools\build-external-helpers.js133099892439528754 0
-43C:\Users\anna\Desktop\credit-card-2lvl\dist133100130104229185 1
+43C:\Users\anna\Desktop\credit-card-2lvl\dist133100158163137118 1
 68C:\Users\anna\Desktop\credit-card-2lvl\node_modules\path-is-absolute133099892437313334 1
 101C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\cjs\internal\operators\auditTime.js.map133100103902970141 0
 91C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\plugin-transform-modules-umd\lib133099893734766289 1
@@ -132,13 +132,13 @@
 103C:\Users\anna\Desktop\credit-card-2lvl\node_modules\cypress\node_modules\@types\node\ts4.8\console.d.ts133100103904229190 0
 49C:\Users\anna\Desktop\credit-card-2lvl\index.html133042195756342403 0
 76C:\Users\anna\Desktop\credit-card-2lvl\node_modules\iconv-lite\.idea\vcs.xml133099969280032716 0
-70C:\Users\anna\Desktop\credit-card-2lvl\node_modules\.package-lock.json133100109111520204 0
-51C:\Users\anna\Desktop\credit-card-2lvl\node_modules133100109110595072 1
+70C:\Users\anna\Desktop\credit-card-2lvl\node_modules\.package-lock.json133100141543751185 0
+51C:\Users\anna\Desktop\credit-card-2lvl\node_modules133100141542841450 1
 71C:\Users\anna\Desktop\credit-card-2lvl\node_modules\tweetnacl\nacl.d.ts133100103896380223 0
 106C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\types\internal\scheduler\AsapAction.d.ts.map133100103902799553 0
 78C:\Users\anna\Desktop\credit-card-2lvl\node_modules\resolve\test\pathfilter.js133099892439455577 0
 97C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm5\internal\operators\distinct.js133100103898935016 0
-56C:\Users\anna\Desktop\credit-card-2lvl\package-lock.json133100109111210285 0
+56C:\Users\anna\Desktop\credit-card-2lvl\package-lock.json133100141543441492 0
 69C:\Users\anna\Desktop\credit-card-2lvl\node_modules\url-parse\LICENSE133099969278172590 0
 78C:\Users\anna\Desktop\credit-card-2lvl\node_modules\v8-to-istanbul\LICENSE.txt133099892438253437 0
 70C:\Users\anna\Desktop\credit-card-2lvl\node_modules\yaml\types\omap.js133042179535379141 0
@@ -330,7 +330,7 @@
 80C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@parcel\transformer-svg\test133076730202178948 1
 122C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\types\internal\scheduled\scheduleReadableStreamLike.d.ts.map133100103906099441 0
 112C:\Users\anna\Desktop\credit-card-2lvl\node_modules\regenerate-unicode-properties\Script\Meroitic_Hieroglyphs.js133099893736692196 0
-57C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@lmdb133100109110605057 1
+57C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@lmdb133100141542851422 1
 87C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@parcel\runtime-js\src\JSRuntime.js133042179538799995 0
 69C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@parcel\utils\src133076730202837871 1
 110C:\Users\anna\Desktop\credit-card-2lvl\node_modules\regenerate-unicode-properties\Script_Extensions\Tagalog.js133099893737282239 0
@@ -338,7 +338,7 @@
 63C:\Users\anna\Desktop\credit-card-2lvl\node_modules\detect-libc133076730218457128 1
 96C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm5\internal\operators\map.js.map133100103904839244 0
 93C:\Users\anna\Desktop\credit-card-2lvl\node_modules\cypress\node_modules\@types\node\tls.d.ts133100103904134299 0
-69C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@msgpackr-extract133100109110605057 1
+69C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@msgpackr-extract133100141542851422 1
 90C:\Users\anna\Desktop\credit-card-2lvl\node_modules\js-yaml\lib\js-yaml\schema\failsafe.js133099892438265325 0
 98C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\cjs\internal\util\isScheduler.js.map133100103904759203 0
 65C:\Users\anna\Desktop\credit-card-2lvl\node_modules\clone\LICENSE133042179528487582 0
@@ -364,7 +364,7 @@
 103C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jsdom\lib\jsdom\living\generated\StaticRangeInit.js133099969282320147 0
 97C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\cjs\internal\operators\mapTo.js.map133100103904864517 0
 70C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@parcel\plugin\lib133076730195298300 1
-59C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@parcel133100109110605057 1
+59C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@parcel133100141542851422 1
 79C:\Users\anna\Desktop\credit-card-2lvl\node_modules\node-addon-api\node_api.gyp133042179526752225 0
 74C:\Users\anna\Desktop\credit-card-2lvl\node_modules\proxy-from-env\.jscsrc133100103896214871 0
 72C:\Users\anna\Desktop\credit-card-2lvl\node_modules\is-unicode-supported133100103894254707 1
@@ -2167,7 +2167,6 @@
 71C:\Users\anna\Desktop\credit-card-2lvl\node_modules\lodash\fp\forOwn.js133100103900714558 0
 56C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs133100103909367626 1
 98C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm5\internal\operators\skipUntil.js133100103901559677 0
-61C:\Users\anna\Desktop\credit-card-2lvl\dist\index.36cc6b03.js133099921154219969 0
 76C:\Users\anna\Desktop\credit-card-2lvl\node_modules\lodash\_reInterpolate.js133100103899259993 0
 100C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@swc\helpers\lib\_check_private_redeclaration.js133042179534481545 0
 97C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\src\internal\operators\withLatestFrom.ts133100103909322626 0
@@ -2243,7 +2242,6 @@
 70C:\Users\anna\Desktop\credit-card-2lvl\node_modules\fd-slicer\index.js133100103894435344 0
 95C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm5\internal\observable\never.js133100103900449860 0
 105C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm\internal\observable\fromEventPattern.js133100103899434752 0
-65C:\Users\anna\Desktop\credit-card-2lvl\dist\index.a74e74e3.js.map133099919683628396 0
 83C:\Users\anna\Desktop\credit-card-2lvl\node_modules\parse5\dist\cjs\common\token.js133099969280082560 0
 68C:\Users\anna\Desktop\credit-card-2lvl\node_modules\walker\readme.md133099892437428168 0
 73C:\Users\anna\Desktop\credit-card-2lvl\node_modules\yargs\locales\nn.json133099892439088266 0
@@ -5092,7 +5090,6 @@
 103C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\types\internal\util\errorContext.d.ts.map133100103903829615 0
 77C:\Users\anna\Desktop\credit-card-2lvl\node_modules\dayjs\plugin\toArray.d.ts133100103900639548 0
 88C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\types\lib\validators\isVar.js133099892440100330 0
-61C:\Users\anna\Desktop\credit-card-2lvl\dist\index.5cade600.js133099921436072728 0
 94C:\Users\anna\Desktop\credit-card-2lvl\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in133042179543796621 0
 104C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\types\internal\operators\bufferToggle.d.ts133100103907464435 0
 74C:\Users\anna\Desktop\credit-card-2lvl\node_modules\resolve\lib\is-core.js133099892439349112 0
@@ -5255,7 +5252,6 @@
 101C:\Users\anna\Desktop\credit-card-2lvl\node_modules\caniuse-lite\data\features\css-optional-pseudo.js133099893736742040 0
 94C:\Users\anna\Desktop\credit-card-2lvl\node_modules\fast-json-stable-stringify\test\to-json.js133099892438129134 0
 92C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\types\lib\validators\isVar.js.map133099892440110297 0
-65C:\Users\anna\Desktop\credit-card-2lvl\dist\index.5cade600.js.map133099921436102626 0
 73C:\Users\anna\Desktop\credit-card-2lvl\node_modules\path-exists\readme.md133099892437568556 0
 108C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\types\internal\operators\bufferToggle.d.ts.map133100103903134741 0
 106C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\types\internal\operators\bufferWhen.d.ts.map133100103903159853 0
@@ -5764,11 +5760,9 @@
 97C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm5\internal\firstValueFrom.js.map133100103904169381 0
 81C:\Users\anna\Desktop\credit-card-2lvl\node_modules\csso\lib\replace\Dimension.js133042179538470878 0
 91C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm5\internal\Notification.js133100103900519752 0
-61C:\Users\anna\Desktop\credit-card-2lvl\dist\index.58100719.js133100090602373407 0
 78C:\Users\anna\Desktop\credit-card-2lvl\node_modules\nth-check\lib\compile.d.ts133042179537274072 0
 68C:\Users\anna\Desktop\credit-card-2lvl\node_modules\object-keys\test133099893735186344 1
 95C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm5\internal\Notification.js.map133100103905149208 0
-65C:\Users\anna\Desktop\credit-card-2lvl\dist\index.58100719.js.map133100090602408307 0
 82C:\Users\anna\Desktop\credit-card-2lvl\node_modules\nth-check\lib\compile.d.ts.map133042179533534080 0
 84C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@types\prettier\parser-html.d.ts133099892438253437 0
 110C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm5\internal\observable\bindNodeCallback.js.map133100103903064949 0
@@ -6374,7 +6368,7 @@
 100C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm5\internal\operators\toArray.js.map133100103906822276 0
 78C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jsdom\lib\jsdom\living\svg133099969282464769 1
 95C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm5\internal\operators\window.js133100103902175076 0
-61C:\Users\anna\Desktop\credit-card-2lvl\dist\index.882ac8d3.js133100130104184110 0
+61C:\Users\anna\Desktop\credit-card-2lvl\dist\index.882ac8d3.js133100141709615614 0
 63C:\Users\anna\Desktop\credit-card-2lvl\node_modules\js-yaml\bin133099892438493639 1
 91C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\cjs\internal\ReplaySubject.js133100103901095009 0
 99C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm5\internal\operators\window.js.map133100103906970119 0
@@ -6783,7 +6777,6 @@
 98C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\traverse\lib\path\inference\inferers.js133099892438857942 0
 93C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\runtime\helpers\wrapNativeSuper.js133099893736486485 0
 113C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm\internal\scheduler\dateTimestampProvider.js.map133100103903580014 0
-62C:\Users\anna\Desktop\credit-card-2lvl\dist\index.81d582b7.css133099923578294573 0
 86C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jest-watcher\build\lib\colorize.js133099892437293399 0
 90C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\cjs\internal\Operator.js.map133100103905289713 0
 105C:\Users\anna\Desktop\credit-card-2lvl\node_modules\rxjs\dist\esm\internal\scheduler\immediateProvider.js133100103899609559 0
@@ -8683,6 +8676,7 @@
 73C:\Users\anna\Desktop\credit-card-2lvl\node_modules\node-releases\LICENSE133042179526283478 0
 73C:\Users\anna\Desktop\credit-card-2lvl\node_modules\async\concatSeries.js133100103897150269 0
 80C:\Users\anna\Desktop\credit-card-2lvl\node_modules\prompts\lib\elements\date.js133099892438390554 0
+83C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\window.cy.js133100145108036084 0
 87C:\Users\anna\Desktop\credit-card-2lvl\node_modules\prompts\lib\elements\multiselect.js133099892439128130 0
 82C:\Users\anna\Desktop\credit-card-2lvl\node_modules\prompts\lib\elements\number.js133099892439153420 0
 82C:\Users\anna\Desktop\credit-card-2lvl\node_modules\prompts\lib\elements\prompt.js133099892439193284 0
@@ -10657,7 +10651,6 @@
 108C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jsdom\lib\jsdom\living\nodes\GlobalEventHandlers-impl.js133099969280672447 0
 113C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@parcel\graph\test\integration\adjacency-list-shared-array.js133042179527480276 0
 70C:\Users\anna\Desktop\credit-card-2lvl\node_modules\dayjs\locale\it.js133100103899064852 0
-62C:\Users\anna\Desktop\credit-card-2lvl\dist\index.3a01df49.css133100101470011353 0
 104C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jsdom\lib\jsdom\living\nodes\HTMLAreaElement-impl.js133099969280787275 0
 74C:\Users\anna\Desktop\credit-card-2lvl\node_modules\dayjs\esm\locale\ss.js133100103899789768 0
 91C:\Users\anna\Desktop\credit-card-2lvl\node_modules\caniuse-lite\data\features\classlist.js133099893736011358 0
@@ -10714,7 +10707,7 @@
 104C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jest-worker\node_modules\supports-color\package.json133099892437418203 0
 98C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\helper-compilation-targets\node_modules133099892440270085 1
 106C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jsdom\lib\jsdom\living\nodes\HTMLScriptElement-impl.js133099969281448234 0
-66C:\Users\anna\Desktop\credit-card-2lvl\dist\index.6e6ab4b3.css.map133100130104229185 0
+66C:\Users\anna\Desktop\credit-card-2lvl\dist\index.6e6ab4b3.css.map133100141709660675 0
 104C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jsdom\lib\jsdom\living\nodes\HTMLSlotElement-impl.js133099969281478132 0
 109C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jsdom\lib\jsdom\living\nodes\HTMLTableCellElement-impl.js133099969281508022 0
 108C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jsdom\lib\jsdom\living\nodes\HTMLTableColElement-impl.js133099969281523317 0
@@ -11018,7 +11011,7 @@
 99C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jest-worker\node_modules\supports-color\license133099892436830405 0
 79C:\Users\anna\Desktop\credit-card-2lvl\node_modules\core-js-compat\package.json133099893735396323 0
 101C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jest-watcher\build\lib\formatTestNameByPattern.js133099892437663994 0
-62C:\Users\anna\Desktop\credit-card-2lvl\dist\index.6e6ab4b3.css133100130104184110 0
+62C:\Users\anna\Desktop\credit-card-2lvl\dist\index.6e6ab4b3.css133100141709615614 0
 77C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jest-worker\build\Farm.js133099892437713829 0
 86C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\core\lib\config\full.js.map133099892438937782 0
 78C:\Users\anna\Desktop\credit-card-2lvl\node_modules\jest-worker\build\index.js133099892437928611 0
@@ -12674,7 +12667,6 @@
 64C:\Users\anna\Desktop\credit-card-2lvl\node_modules\dashdash\etc133100103893990244 1
 72C:\Users\anna\Desktop\credit-card-2lvl\node_modules\dashdash\LICENSE.txt133100103893735060 0
 73C:\Users\anna\Desktop\credit-card-2lvl\node_modules\dashdash\package.json133100103893256020 0
-61C:\Users\anna\Desktop\credit-card-2lvl\dist\index.83aded2c.js133100085521589063 0
 70C:\Users\anna\Desktop\credit-card-2lvl\node_modules\dashdash\README.md133100103893511585 0
 97C:\Users\anna\Desktop\credit-card-2lvl\node_modules\check-more-types\dist\check-more-types.min.js133100103896360266 0
 76C:\Users\anna\Desktop\credit-card-2lvl\node_modules\dashdash\lib\dashdash.js133100103894730202 0
@@ -13732,6 +13724,7 @@
 85C:\Users\anna\Desktop\credit-card-2lvl\node_modules\css-tree\lib\syntax\pseudo\not.js133042179542500089 0
 96C:\Users\anna\Desktop\credit-card-2lvl\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133042179542579874 0
 98C:\Users\anna\Desktop\credit-card-2lvl\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133042179542609794 0
+84C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\actions.cy.js133100145108036084 0
 89C:\Users\anna\Desktop\credit-card-2lvl\node_modules\css-tree\lib\syntax\pseudo\slotted.js133042179543427610 0
 101C:\Users\anna\Desktop\credit-card-2lvl\node_modules\css-tree\lib\syntax\pseudo\common\selectorList.js133042179543377739 0
 93C:\Users\anna\Desktop\credit-card-2lvl\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133042179530851259 0
@@ -14297,6 +14290,7 @@
 103C:\Users\anna\Desktop\credit-card-2lvl\node_modules\caniuse-lite\data\features\constraint-validation.js133099893736097923 0
 85C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@types\babel__traverse\index.d.ts133099892437378340 0
 97C:\Users\anna\Desktop\credit-card-2lvl\node_modules\caniuse-lite\data\features\contenteditable.js133099893736107894 0
+79C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\1-getting-started\todo.cy.js133100145108006176 0
 86C:\Users\anna\Desktop\credit-card-2lvl\node_modules\caniuse-lite\data\features\cors.js133099893736157734 0
 99C:\Users\anna\Desktop\credit-card-2lvl\node_modules\caniuse-lite\data\features\createimagebitmap.js133099893736181415 0
 103C:\Users\anna\Desktop\credit-card-2lvl\node_modules\caniuse-lite\data\features\credential-management.js133099893736191377 0
@@ -16042,7 +16036,6 @@
 94C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@jest\core\build\getChangedFilesPromise.js133099892438049194 0
 97C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@jest\core\build\getConfigsOfProjectsToRun.js133099892438119166 0
 107C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@jest\core\build\getNoTestFoundRelatedToChangedFiles.js133099892438330208 0
-65C:\Users\anna\Desktop\credit-card-2lvl\dist\index.83aded2c.js.map133100085521618965 0
 101C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@jest\core\build\getProjectNamesMissingWarning.js133099892438483676 0
 96C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@jest\core\build\getSelectProjectsMessage.js133099892438528679 0
 95C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\runtime\helpers\esm\inheritsLoose.js133099893735886780 0
@@ -16290,7 +16283,6 @@
 76C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\runtime\README.md133099893734741166 0
 87C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\runtime\regenerator\index.js133099893736506418 0
 91C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\runtime\helpers\applyDecs2203.js133099893735145354 0
-65C:\Users\anna\Desktop\credit-card-2lvl\dist\index.09abd0a0.js.map133100128207889860 0
 99C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\runtime\helpers\assertThisInitialized.js133099893735216237 0
 100C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\runtime\helpers\asyncGeneratorDelegate.js133099893735236171 0
 91C:\Users\anna\Desktop\credit-card-2lvl\node_modules\@babel\runtime\helpers\asyncIterator.js133099893735271389 0
@@ -16875,6 +16867,7 @@
 71C:\Users\anna\Desktop\credit-card-2lvl\node_modules\.bin\node-which.ps1133099892440299986 0
 67C:\Users\anna\Desktop\credit-card-2lvl\node_modules\.bin\parcel.cmd133042179554735879 0
 63C:\Users\anna\Desktop\credit-card-2lvl\node_modules\.bin\parser133099892440299986 0
+84C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\waiting.cy.js133100145108036084 0
 67C:\Users\anna\Desktop\credit-card-2lvl\node_modules\.bin\parser.cmd133099892440299986 0
 67C:\Users\anna\Desktop\credit-card-2lvl\node_modules\.bin\parser.ps1133099892440299986 0
 72C:\Users\anna\Desktop\credit-card-2lvl\node_modules\.bin\regjsparser.cmd133099893742865286 0
@@ -16898,28 +16891,31 @@
 67C:\Users\anna\Desktop\credit-card-2lvl\node_modules\.bin\terser.cmd133042179554745849 0
 61C:\Users\anna\Desktop\credit-card-2lvl\node_modules\.bin\uuid133100103909447377 0
 65C:\Users\anna\Desktop\credit-card-2lvl\node_modules\.bin\uuid.ps1133100103909447377 0
-61C:\Users\anna\Desktop\credit-card-2lvl\dist\index.09abd0a0.js133100128207845408 0
-61C:\Users\anna\Desktop\credit-card-2lvl\dist\index.36a34420.js133100060857971838 0
-65C:\Users\anna\Desktop\credit-card-2lvl\dist\index.36a34420.js.map133100060858001893 0
-62C:\Users\anna\Desktop\credit-card-2lvl\dist\index.36b58a7a.css133043023186573945 0
-66C:\Users\anna\Desktop\credit-card-2lvl\dist\index.36b58a7a.css.map133043023186643759 0
-65C:\Users\anna\Desktop\credit-card-2lvl\dist\index.36cc6b03.js.map133099921154249876 0
-66C:\Users\anna\Desktop\credit-card-2lvl\dist\index.3a01df49.css.map133100101470031293 0
-66C:\Users\anna\Desktop\credit-card-2lvl\dist\index.81d582b7.css.map133099923578314526 0
-61C:\Users\anna\Desktop\credit-card-2lvl\dist\index.85e9d6ad.js133043023186584002 0
-65C:\Users\anna\Desktop\credit-card-2lvl\dist\index.85e9d6ad.js.map133043023186643759 0
-65C:\Users\anna\Desktop\credit-card-2lvl\dist\index.882ac8d3.js.map133100130104229185 0
-61C:\Users\anna\Desktop\credit-card-2lvl\dist\index.a74e74e3.js133099919683593437 0
-62C:\Users\anna\Desktop\credit-card-2lvl\dist\index.e2e629dc.css133100090602373407 0
-66C:\Users\anna\Desktop\credit-card-2lvl\dist\index.e2e629dc.css.map133100090602408307 0
-62C:\Users\anna\Desktop\credit-card-2lvl\dist\index.e8751043.css133099924066369947 0
-66C:\Users\anna\Desktop\credit-card-2lvl\dist\index.e8751043.css.map133099924066389880 0
-54C:\Users\anna\Desktop\credit-card-2lvl\dist\index.html133100130104184110 0
-56C:\Users\anna\Desktop\credit-card-2lvl\cypress\downloads133100108225622707 1
-50C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e133100109767722966 1
+65C:\Users\anna\Desktop\credit-card-2lvl\dist\index.882ac8d3.js.map133100141709660675 0
+54C:\Users\anna\Desktop\credit-card-2lvl\dist\index.html133100158163137118 0
+56C:\Users\anna\Desktop\credit-card-2lvl\cypress\downloads133100145171718866 1
+50C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e133100149948358431 1
 55C:\Users\anna\Desktop\credit-card-2lvl\cypress\fixtures133100104904285779 1
 54C:\Users\anna\Desktop\credit-card-2lvl\cypress\support133100104904300752 1
 66C:\Users\anna\Desktop\credit-card-2lvl\cypress\support\commands.js133100104904300752 0
 68C:\Users\anna\Desktop\credit-card-2lvl\cypress\fixtures\example.json133100104904295733 0
-63C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\card.test.js133100128171182379 0
+68C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\1-getting-started133100145107996210 1
+70C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples133100145108016161 1
+61C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\card.cy.js133100157783872141 0
+85C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\aliasing.cy.js133100145108016161 0
+87C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\assertions.cy.js133100145108036084 0
+87C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\connectors.cy.js133100145108036084 0
+84C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\cookies.cy.js133100145108036084 0
+88C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\cypress_api.cy.js133100145108036084 0
+82C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\files.cy.js133100145108036084 0
+90C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\local_storage.cy.js133100145108036084 0
+85C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\location.cy.js133100145108036084 0
+81C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\misc.cy.js133100145108036084 0
+87C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\navigation.cy.js133100145108036084 0
+93C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\network_requests.cy.js133100145108036084 0
+85C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\querying.cy.js133100145108036084 0
+95C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\spies_stubs_clocks.cy.js133100145108036084 0
+86C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\traversal.cy.js133100145108036084 0
+86C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\utilities.cy.js133100145108036084 0
+85C:\Users\anna\Desktop\credit-card-2lvl\cypress\e2e\2-advanced-examples\viewport.cy.js133100145108036084 0
 60C:\Users\anna\Desktop\credit-card-2lvl\.vscode\settings.json132903430857625150 0
